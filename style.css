@@ -1,0 +1,17 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  background: black;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+canvas {
+  background-image: url(https://furman.top/uploads/posts/2023-05/1683329971_furman-top-p-fon-dlya-zmeiki-pinterest-12.jpg);
+  border: 1px solid white;
+}
